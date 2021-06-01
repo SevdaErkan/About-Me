@@ -1,0 +1,35 @@
+.App {
+   font-family: sans-serif;
+}
+img {
+   width: 100px;
+   height: 100px;
+   object-fit: cover;
+   border-radius: 50%;
+}
+ul li a:active {
+   color: red;
+}
+ul li a:visited,
+td a:visited {
+   color: rgb(21, 7, 83);
+}
+
+table,
+th,
+td,
+tr {
+   border: 1px solid;
+}
+.small-box {
+   width: 5%;
+}
+section {
+   margin: 40px;
+}
+ol ul li h3 {
+   margin: 0;
+}
+.websites {
+   width: 50%;
+}
